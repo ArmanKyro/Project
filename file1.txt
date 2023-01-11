@@ -1,2 +1,0 @@
-Starting in file1
-hello
